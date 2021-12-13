@@ -30,7 +30,7 @@ export PROJS="${HOME}/workspace"
 export VENVS="${HOME}/.ve"
 
 export PYV2='2.7.18'
-export PYV3='3.9.1'
+export PYV3='3.10.1'
 
 # Python 3 VENV's:
 export VENVJUPYTER="jupyter$(echo ${PYV3%.*} | tr -d .)"
